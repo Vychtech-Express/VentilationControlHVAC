@@ -40,5 +40,5 @@
 ![IMG_4778](https://user-images.githubusercontent.com/104857185/169310532-a605a20f-8389-42ef-9c34-928f5b01c33a.JPG)
 ![IMG_4793](https://user-images.githubusercontent.com/104857185/169310808-5151ae47-95cf-4c17-8756-ea7f3cd65ec5.JPG)
 
-Аналогичные разработки есть у **ООО ИПК Индустрия** (г. Мытищи)
+Аналогичные разработки в более углубленной форме есть у **ООО ИПК Индустрия** (г. Мытищи)
 см. https://www.facebook.com/ipkindustriya/ 
