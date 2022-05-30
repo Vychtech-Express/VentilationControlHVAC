@@ -58,9 +58,9 @@
 
 ----
 Наработки по аналогам SCADA-системы **Desigo Insight** фирмы SIEMENS в том числе:
- * **ООО ИПК Индустрия** (г. Мытищи) см. https://www.facebook.com/ipkindustriya/
- * **ООО Симпл-Скада** (г. Краснодар) см. https://simple-scada.com/
- * **ООО Симп Лайт** (г. Нижний Тагил) см. https://simplight.ru/
+ * **ИПК Индустрия** (г. Мытищи) см. https://www.facebook.com/ipkindustriya/
+ * **Симпл-Скада** (г. Краснодар) см. https://simple-scada.com/
+ * **Симп Лайт** (г. Нижний Тагил) см. https://simplight.ru/
  * **НПФ Круг** (г. Пенза) см. https://www.krug2000.ru/products/ppr/scada-2000.html?utm_medium=cpc&utm_source=mail.yandex.ru&utm_campaign=15353707&utm_term=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20scada&utm_content=none.0&yclid=2892848951052795745
  * **IECON** (г. Москва) см. https://www.iecon.ru/about/
  * **Factory Manager** (г. Омск) см. https://factorymanager.ru/
