@@ -59,4 +59,5 @@
  * **ООО Симп Лайт** (г. Нижний Тагил) см. https://simplight.ru/
  * **НПФ Круг** (г. Пенза) см. https://www.krug2000.ru/products/ppr/scada-2000.html?utm_medium=cpc&utm_source=mail.yandex.ru&utm_campaign=15353707&utm_term=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20scada&utm_content=none.0&yclid=2892848951052795745
  * **IECON** (г. Москва) см. https://www.iecon.ru/about/
- * **Factory Manager** (г. Омск) см. https://factorymanager.ru/ 
+ * **Factory Manager** (г. Омск) см. https://factorymanager.ru/
+ * **АСУ-Технология** (г. Москва) см. https://www.asu-tech.ru/about/dispetcherizaciya.html 
