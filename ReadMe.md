@@ -33,6 +33,9 @@
 ![IMG_4547](https://user-images.githubusercontent.com/104857185/169310149-21e65ddf-7baa-45be-a14c-aa3a2d774197.JPG)
 ![IMG_4778](https://user-images.githubusercontent.com/104857185/169310532-a605a20f-8389-42ef-9c34-928f5b01c33a.JPG)
 ![IMG_4793](https://user-images.githubusercontent.com/104857185/169310808-5151ae47-95cf-4c17-8756-ea7f3cd65ec5.JPG)
+![IMG_3174](https://user-images.githubusercontent.com/104857185/170977221-276454ab-5e53-4747-8108-c8fcff0e6f48.JPG)
+![IMG_3176](https://user-images.githubusercontent.com/104857185/170977297-a0bd49e5-281f-4405-9636-5aa8f5c7a8ed.JPG)
+
 
 #### Ссылочная литература
 Каталоги 1998-го (остался только в печатном виде), 2002-го и 2005-го годов на сервере в папках:
