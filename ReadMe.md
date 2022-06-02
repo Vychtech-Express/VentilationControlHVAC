@@ -51,6 +51,7 @@
  * **Factory Manager** (г. Омск) см. https://factorymanager.ru/
  * **АСУ-Технология** (г. Москва) см. https://www.asu-tech.ru/about/dispetcherizaciya.html 
  * **MasterSCADA** (г. Москва) см. https://masterscada.ru/?yclid=2966471923235094160#pos 
+ * https://github.com/frangoteam/FUXA
 
 #### Ссылочная литература
 Каталоги 1998-го (остался только в печатном виде), 2002-го и 2005-го годов на сервере в папках:
