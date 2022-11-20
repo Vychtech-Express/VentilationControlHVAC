@@ -45,14 +45,14 @@
  - Пользователи работают с программным обеспечением в оригинале с файлового сервера, которое дорабатывается в процессе работы без уведомления его пользователей (в части CI/CD).
 
 Наработки по аналогам SCADA-системы **Desigo Insight** фирмы SIEMENS в том числе:
- * **ИПК Индустрия** (г. Мытищи) см. https://www.facebook.com/ipkindustriya/
- * **Симпл-Скада** (г. Краснодар) см. https://simple-scada.com/
- * **Симп Лайт** (г. Нижний Тагил) см. https://simplight.ru/
- * **НПФ Круг** (г. Пенза) см. https://www.krug2000.ru/products/ppr/scada-2000.html?utm_medium=cpc&utm_source=mail.yandex.ru&utm_campaign=15353707&utm_term=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20scada&utm_content=none.0&yclid=2892848951052795745
- * **IECON** (г. Москва) см. https://www.iecon.ru/about/
- * **Factory Manager** (г. Омск) см. https://factorymanager.ru/
- * **АСУ-Технология** (г. Москва) см. https://www.asu-tech.ru/about/dispetcherizaciya.html 
- * **MasterSCADA** (г. Москва) см. https://masterscada.ru/?yclid=2966471923235094160#pos 
+ * **ИПК Индустрия** (г. Мытищи) см. [статью на facebook-е](https://www.facebook.com/ipkindustriya/)
+ * **Симпл-Скада** (г. Краснодар) см. [их сайт](https://simple-scada.com/)
+ * **Симп Лайт** (г. Нижний Тагил) см. [их сайт](https://simplight.ru/)
+ * **НПФ Круг** (г. Пенза) см. [их сайт](https://www.krug2000.ru/products/ppr/scada-2000.html?utm_medium=cpc&utm_source=mail.yandex.ru&utm_campaign=15353707&utm_term=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20scada&utm_content=none.0&yclid=2892848951052795745)
+ * **IECON** (г. Москва) см. [их сайт](https://www.iecon.ru/about/)
+ * **Factory Manager** (г. Омск) см. [их сайт](https://factorymanager.ru/)
+ * **АСУ-Технология** (г. Москва) см. [их сайт](https://www.asu-tech.ru/about/dispetcherizaciya.html)
+ * **MasterSCADA** (г. Москва) см. [их сайт](https://masterscada.ru/?yclid=2966471923235094160#pos)
  * https://github.com/frangoteam/FUXA
 
 #### Ссылочная литература
