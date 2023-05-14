@@ -45,7 +45,7 @@
  - Пользователи работают с программным обеспечением в оригинале с файлового сервера, которое дорабатывается в процессе работы без уведомления его пользователей (в части CI/CD).
 
 Наработки аналогичные SCADA-системе **Desigo Insight** фирмы SIEMENS в том числе:
- * [ИПК Индустрия](https://www.facebook.com/ipkindustriya/) (г. Мытищи)
+ * [ИПК Индустрия](https://www.facebook.com/ipkindustriya/) (г. Мытищи) на facebook-е
  * [Симпл-Скада](https://simple-scada.com/) (г. Краснодар) 
  * [Симп Лайт](https://simplight.ru/) (г. Нижний Тагил) 
  * [НПФ Круг](https://www.krug2000.ru/products/ppr/scada-2000.html?utm_medium=cpc&utm_source=mail.yandex.ru&utm_campaign=15353707&utm_term=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20scada&utm_content=none.0&yclid=2892848951052795745) (г. Пенза)
