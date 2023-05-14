@@ -54,6 +54,7 @@
  * **АСУ-Технология** (г. Москва) см. [их сайт](https://www.asu-tech.ru/about/dispetcherizaciya.html)
  * **MasterSCADA** (г. Москва) см. [их сайт](https://masterscada.ru/?yclid=2966471923235094160#pos)
  * https://github.com/frangoteam/FUXA
+ * [Прогресс-Контроль](https://progress-control.ru/)
 
 #### Ссылочная литература
 Каталоги 1998-го (остался только в печатном виде), 2002-го и 2005-го годов на сервере в папках:
