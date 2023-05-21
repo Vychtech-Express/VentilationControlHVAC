@@ -55,6 +55,7 @@
  * [MasterSCADA](https://masterscada.ru/?yclid=2966471923235094160#pos) (г. Москва)
  * [FUXA](https://github.com/frangoteam/FUXA) на github-е
  * [Прогресс-Контроль](https://progress-control.ru/) (г. Москва)
+ * [Эскон](https://eskon-spb.ru) (г. Санкт-Петенбург)
 
 #### Ссылочная литература
 Каталоги 1998-го (остался только в печатном виде), 2002-го и 2005-го годов на сервере в папках:
