@@ -56,6 +56,9 @@
  * [FUXA](https://github.com/frangoteam/FUXA) на github-е
  * [Прогресс-Контроль](https://progress-control.ru/) (г. Москва)
  * [Эскон](https://eskon-spb.ru) (г. Санкт-Петенбург)
+ * [Инжиниринговые решения](https://ingircompany.ru/siemens?yclid=2798673388731962035) (г. Энгельс)
+ * [КОМЕД](https://komed-automation.ru/o-kompanii) (г. Волжский)
+ * [ВАРМА](https://varmatech.ru/automation-systems-development/?yclid=2798727833356145209) (г. Санкт-Петенбург)
 
 #### Ссылочная литература
 Каталоги 1998-го (остался только в печатном виде), 2002-го и 2005-го годов на сервере в папках:
