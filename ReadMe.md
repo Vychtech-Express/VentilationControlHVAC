@@ -64,6 +64,7 @@
  * [RoomyBots](https://roomybots.ru/doc/)
  * [Advanta](https://promo.advanta-group.ru/promo/?utm_source=yadirect&utm_medium=cpc&utm_campaign=83202387|MK_STRATEGII_KLYUCHI_RF_2023_promo_advanta_group_ru&utm_content=13486473614&utm_term=---autotargeting&yclid=2936916975607943712)
  * [Aston](https://astondevs.ru/?utm_campaign=stranica-retarget&yclid=2937092834591052453)
+ * [InSat](https://insat.ru/products/?category=9&yclid=2937160091982435060)
 
 #### Ссылочная литература
 Каталоги 1998-го (остался только в печатном виде), 2002-го и 2005-го годов на сервере в папках:
