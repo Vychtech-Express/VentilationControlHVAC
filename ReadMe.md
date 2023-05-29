@@ -59,6 +59,7 @@
  * [Инжиниринговые решения](https://ingircompany.ru/siemens?yclid=2798673388731962035) (г. Энгельс)
  * [КОМЕД](https://komed-automation.ru/o-kompanii) (г. Волжский)
  * [ВАРМА](https://varmatech.ru/automation-systems-development/?yclid=2798727833356145209) (г. Санкт-Петенбург)
+ * [КАПСТРОЙ](https://constructor.ru/store/constructor/kapstroy/?utm_source=yandex&yclid=2926245293104894532) (г. Москва)
 
 #### Ссылочная литература
 Каталоги 1998-го (остался только в печатном виде), 2002-го и 2005-го годов на сервере в папках:
