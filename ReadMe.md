@@ -60,6 +60,7 @@
  * [КОМЕД](https://komed-automation.ru/o-kompanii) (г. Волжский)
  * [ВАРМА](https://varmatech.ru/automation-systems-development/?yclid=2798727833356145209) (г. Санкт-Петенбург)
  * [КАПСТРОЙ](https://constructor.ru/store/constructor/kapstroy/?utm_source=yandex&yclid=2926245293104894532) (г. Москва)
+ * [РусКвант](https://rus-kvant.ru/?utm_source=yandex&utm_medium=vitaliy&utm_campaign=yandex_network_brand_rf&utm_content=cid:87412608|gid:5190223231|adid:14101242522|kwid:44651062050&utm_term=%D1%80%D1%83%D1%81%20%D0%BA%D0%B2%D0%B0%D0%BD%D1%82%20%D0%B8%D0%BC%D0%BF%D1%83%D0%BB%D1%8C%D1%81&yclid=2926301674729182146) (г. Москва)
 
 #### Ссылочная литература
 Каталоги 1998-го (остался только в печатном виде), 2002-го и 2005-го годов на сервере в папках:
