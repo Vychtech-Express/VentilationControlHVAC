@@ -69,6 +69,7 @@
  * [РЕЛЭКС](https://relex.ru/ru/services/?utm_source=yandex&utm_medium=cpc&utm_campaign=cid|RSYA|87558350|context&utm_content=gid|5193206353|aid|14139497941|44738758466|44738758466|desktop|%D0%A1%D0%BE%D1%87%D0%B8&utm_term=%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B&pm_source=mail.yandex.ru&pm_block=none&pm_position=0&yclid=2980003357856699201) (г. Воронеж)
  * [РидЛаб](https://rydlab.ru/?yclid=3020577673937752289) (г. Свердловск)
  * [Инновационная автоматика](https://iautomatica.ru/catalog-siemens/wincc-7-5/simatic-wincc-odk-v7-5-otkrytyy-komplekt-razrabotchika-odk-optsiya-dlya-simatic-wincc-v7-5-dlya-prog/?utm_source=yandex&utm_medium=cpc&utm_campaign=77346079&yclid=3291318754041991962) (г. Москва)
+ * [Институт промышленной автоматизации](https://ipa.sms-a.ru/?utm_source=yandex&utm_medium=cpc&utm_campaign=yarsya&utm_content=4881558151&utm_term=simatic%20step%207%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5&_openstat=ZGlyZWN0LnlhbmRleC5ydTszMDYxMTA2Njs0ODgxNTU4MTUxO21haWwueWFuZGV4LnJ1Omd1YXJhbnRlZQ&yclid=3573652583933350514) (г. Самара)
 
 #### Ссылочная литература
 Каталоги 1998-го (остался только в печатном виде), 2002-го и 2005-го годов на сервере в папках:
