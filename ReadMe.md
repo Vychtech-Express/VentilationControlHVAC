@@ -71,6 +71,7 @@
  * [Инновационная автоматика](https://iautomatica.ru/catalog-siemens/wincc-7-5/simatic-wincc-odk-v7-5-otkrytyy-komplekt-razrabotchika-odk-optsiya-dlya-simatic-wincc-v7-5-dlya-prog/?utm_source=yandex&utm_medium=cpc&utm_campaign=77346079&yclid=3291318754041991962) (г. Москва)
  * [Институт промышленной автоматизации](https://ipa.sms-a.ru/?utm_source=yandex&utm_medium=cpc&utm_campaign=yarsya&utm_content=4881558151&utm_term=simatic%20step%207%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5&_openstat=ZGlyZWN0LnlhbmRleC5ydTszMDYxMTA2Njs0ODgxNTU4MTUxO21haWwueWFuZGV4LnJ1Omd1YXJhbnRlZQ&yclid=3573652583933350514) (г. Самара)
  * [ГК ПромИнвест](https://prominvest-36.ru/import/siemens?yclid=3750995521149670230) (г. Воронеж)
+ * [Инновационная автоматика](https://iautomatica.ru/catalog-siemens/wincc-7-5/simatic-wincc-odk-v7-5-otkrytyy-komplekt-razrabotchika-odk-optsiya-dlya-simatic-wincc-v7-5-dlya-prog/?utm_source=yandex&utm_medium=cpc&utm_campaign=77346079&yclid=5371770491356899811) (г. Москва)
 
 #### Ссылочная литература
 Каталоги 1998-го (остался только в печатном виде), 2002-го и 2005-го годов на сервере в папках:
