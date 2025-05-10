@@ -73,6 +73,7 @@
  * [ГК ПромИнвест](https://prominvest-36.ru/import/siemens?yclid=3750995521149670230) (г. Воронеж)
  * [Инновационная автоматика](https://iautomatica.ru/catalog-siemens/wincc-7-5/simatic-wincc-odk-v7-5-otkrytyy-komplekt-razrabotchika-odk-optsiya-dlya-simatic-wincc-v7-5-dlya-prog/?utm_source=yandex&utm_medium=cpc&utm_campaign=77346079&yclid=5371770491356899811) (г. Москва)
  * [AggreGate](https://aggregate.digital/ru/) (г. Москва)
+ * [НПФ Круг](https://www.krug2000.ru/products/ppr/scada-2000.html?utm_medium=cpc&utm_source=mail.yandex.ru&utm_campaign=15353707&utm_term=scada%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0&utm_content=none.0&yclid=2143688255736381439) (г. Пенза)
 
 #### Ссылочная литература
 Каталоги 1998-го (остался только в печатном виде), 2002-го и 2005-го годов на сервере в папках:
